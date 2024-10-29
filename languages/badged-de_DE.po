@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Badged\n"
+"Language: de\n"
+
+#. badged
+#: admin/class-badged-admin.php:330
+msgid "Badged Settings"
+msgstr "Badged Einstellungen"
+
+#. badged
+#: admin/views/admin.php:30
+msgid "Created by"
+msgstr "Erstellt von"
+
+#. badged
+#: admin/views/admin.php:29
+msgid "Thanks for using"
+msgstr "Danke für die Nutzung von"
+
+#. badged
+#: admin/views/admin.php:29
+msgid "Donate"
+msgstr "Spenden"
+
+#. translators: plugin header field 'Name'
+#. badged
+#: admin/class-badged-admin.php:331
+#: badged.php:0
+msgid "Badged"
+msgstr "Badged"
+
+#. badged
+#: admin/class-badged-admin.php:379
+msgid "Style"
+msgstr "Stil"
+
+#. badged
+#: admin/class-badged-admin.php:386
+msgid "Set Style"
+msgstr "Stil setzen"
+
+#. translators: plugin header field 'PluginURI'
+#. badged
+#: badged.php:0
+msgid "http://kremalicious.com/badged/"
+msgstr "http://kremalicious.com/badged/"
+
+#. translators: plugin header field 'Description'
+#. badged
+#: badged.php:0
+msgid "Transforms the standard WordPress update & comment notification badges into iOS-styled ones. Just activate and enjoy the red badges."
+msgstr "Wandelt die Standard WordPress Kommentar- und Aktualisierungs-Benachrichtigungen im iOS-Stil um. Einfach aktivieren und die roten Benachrichtigungen genießen."
+
+#. translators: plugin header field 'Author'
+#. badged
+#: badged.php:0
+msgid "Matthias Kretschmann"
+msgstr "Matthias Kretschmann"
+
+#. translators: plugin header field 'AuthorURI'
+#. badged
+#: badged.php:0
+msgid "http://matthiaskretschmann.com"
+msgstr "http://matthiaskretschmann.com"
+
+#. translators: plugin header field 'Version'
+#. badged
+#: badged.php:0
+msgid "1.0.0"
+msgstr "1.0.0"
+

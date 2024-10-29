@@ -1,0 +1,6 @@
+
+#badgedoptions a,#badgedoptions input.button-primary,#badgedoptions .kremalicious{text-decoration:none;-webkit-transition:all .2s ease-in-out 0;transition:all .2s ease-in-out 0}
+#badgedoptions form h3{font-family:HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",sans-serif;font-size:18px;font-weight:400;border-bottom:1px solid #e3e3e3;border-top:1px solid #e3e3e3;margin-top:.5em;padding:10px 0}
+#badgedoptions footer{border-top:1px solid #e3e3e3;color:#666}
+#badgedoptions .radio-row{margin-bottom:0}
+.kremalicious{background:url('../img/kremalicious-cloud.svg') no-repeat left -2px;background-size:16px;width:16px;height:16px;margin-left:10px;margin-right:1px;margin-bottom:-1px;display:inline-block;vertical-align:bottom;opacity:.5}.kremalicious-link:hover .kremalicious{opacity:1}

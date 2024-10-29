@@ -1,0 +1,54 @@
+/////////////////////////////////////
+//
+// Badged Settings Page
+// ------------------------ 
+// by Matthias Kretschmann
+// mkretschmann.com
+//
+/////////////////////////////////////
+
+
+@import 'scaffolding.less';
+
+// isolate settings style just in case
+#badgedoptions {
+    
+    a,
+    input.button-primary,
+    .kremalicious {
+    	text-decoration: none;
+    	.transition;
+    }
+    
+    form h3 {
+        font-family: HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        border-bottom: 1px solid @admin-border-color;
+        border-top: 1px solid @admin-border-color;
+        margin-top: .5em;
+        padding: 10px 0;
+    }
+
+    footer {
+    	border-top: 1px solid @admin-border-color;
+    	color: #666;
+    }
+
+    .radio-row { margin-bottom: 0 }
+}
+
+.kremalicious {
+    background: url('../img/kremalicious-cloud.svg') no-repeat left -2px;
+    background-size: 16px;
+    width: 16px;
+    height: 16px;
+    margin-left: 10px;
+    margin-right: 1px;
+    margin-bottom: -1px;
+    display: inline-block;
+    vertical-align: bottom;
+    opacity: .5;
+    
+    .kremalicious-link:hover & { opacity: 1 }
+}
